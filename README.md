@@ -2,7 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=ChoiTim&fontSize=55&descSize=30&rotate=0&animation=twinkling)
 
-<br/>
 <!-- 내 소개 -->
 
 
@@ -57,10 +56,7 @@ Techs that I've learned and used for the projects
 <br/><br/>
 ### 📝 My Blogs
 
-<a href="https://velog.io/@timchoi931"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"></a>  
 <a href="https://www.instagram.com/dev.choi28/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>  
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=timchoi931&slug=Nginx-웹-서버-리버스-프록시-로드-밸런서의-거장)](https://velog.io/@timchoi931/Nginx-웹-서버-리버스-프록시-로드-밸런서의-거장)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoitim&count_bg=%231200FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
